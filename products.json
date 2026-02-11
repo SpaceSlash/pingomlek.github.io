@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "name": "Ürün 1",
+      "price": 1299,
+      "image": "images/product_imnages/product1.jpg",
+      "link": "https://n11.com/urun-linki"
+    },
+    {
+      "name": "Ürün 2",
+      "price": 899,
+      "image": "images/product_imnages/product2.jpg",
+      "link": "https://hepsiburada.com/urun-linki"
+    }
+  ]
+}
