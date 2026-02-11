@@ -12,7 +12,9 @@ header {
 }
 
 .logo {
-    height: 120x;
+    height: 640x;
+    width: auto;
+    margin-bottom: 10px;
 }
 
 /* SLIDER */
